@@ -1,4 +1,4 @@
-![Header](/images/header.jpg)
+![Header](https://github.com/PROMMIER-JEROMINE/PROMMIER-JEROMINE/blob/main/images/header.jpg?raw=true)
 
 ## Hi there, I'm [Jérômine](https://github.com/PROMMIER-JEROMINE) 👋
 
